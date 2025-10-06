@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Web Development<br>💬 Ask me about anything.<br>⚡ Fun fact I love to play video games.
+🌱 I’m currently learning Web Development<br>💬 Ask me about anything.<br>⚡ Fun fact I love to do rap music.
 
 
 ## 🌐 Socials:
