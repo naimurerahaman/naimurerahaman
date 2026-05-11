@@ -95,14 +95,14 @@ $ cat dev_profile.json
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=naimurerahamanemon&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimurerahamanemon&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=naimurerahaman&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimurerahaman&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=naimurerahamanemon&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=naimurerahaman&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
@@ -112,7 +112,7 @@ $ cat dev_profile.json
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=naimurerahamanemon&theme=tokyonight&no-frame=true&margin-w=10&row=1)
+![](https://github-profile-trophy.vercel.app/?username=naimurerahaman&theme=tokyonight&no-frame=true&margin-w=10&row=1)
 
 </div>
 
@@ -122,7 +122,7 @@ $ cat dev_profile.json
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naimurerahamanemon&theme=tokyo-night&hide_border=true&area=true)](https://github.com/naimurerahamanemon)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naimurerahaman&theme=tokyo-night&hide_border=true&area=true)](https://github.com/naimurerahaman)
 
 </div>
 
@@ -148,6 +148,6 @@ $ cat dev_profile.json
 
 <img src="https://visitcount.itsvg.in/api?id=naimurerahamanemon&icon=5&color=6"/>
 
-*⭐ From [naimurerahamanemon](https://github.com/naimurerahamanemon) — built with passion, shipped at midnight.*
+*⭐ From [naimurerahaman](https://github.com/naimurerahaman) — built with passion, shipped at midnight.*
 
 </div>
