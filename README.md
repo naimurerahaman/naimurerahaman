@@ -146,7 +146,7 @@ $ cat dev_profile.json
 
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=naimurerahamanemon&icon=5&color=6"/>
+<img src="https://visitcount.itsvg.in/api?id=naimurerahaman&icon=5&color=6"/>
 
 *⭐ From [naimurerahaman](https://github.com/naimurerahaman) — built with passion, shipped at midnight.*
 
