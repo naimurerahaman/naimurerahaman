@@ -102,7 +102,7 @@ $ cat dev_profile.json
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=naimurerahamanemon&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=naimurerahamanemon&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
@@ -118,11 +118,11 @@ $ cat dev_profile.json
 
 ---
 
-## 🔝 Top Contributed Repos
+## 📈 Contribution Graph
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=naimurerahamanemon&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naimurerahamanemon&theme=tokyo-night&hide_border=true&area=true)](https://github.com/naimurerahamanemon)
 
 </div>
 
