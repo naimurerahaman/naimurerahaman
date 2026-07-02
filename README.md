@@ -51,8 +51,8 @@ const emon = {
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naimurerahaman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&hide=prs,issues" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimurerahaman&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimurerahaman&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimurerahaman&theme=tokyonight" height="160"/>
 </div>
 
 <div align="center">
@@ -84,7 +84,7 @@ const emon = {
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=naimurerahaman&label=visitors&color=6&icon=5&pretty=true"/>
+  <img src="https://komarev.com/ghpvc/?username=naimurerahaman&color=6366f1&style=flat-square&label=Profile+Views"/>
   <br/><br/>
   <sub>⭐ <a href="https://github.com/naimurerahaman">naimurerahaman</a> · built with intent, shipped with passion.</sub>
 </div>
